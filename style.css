@@ -1,0 +1,53 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #a1c4fd, #c2e9fb);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.container {
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    padding: 2rem;
+    text-align: center;
+    max-width: 400px;
+    width: 90%;
+}
+
+h1 {
+    font-size: 1.5rem;
+    color: #333;
+}
+
+#quote-box {
+    margin: 1.5rem 0;
+}
+
+#quote {
+    font-size: 1.2rem;
+    color: #555;
+}
+
+#author {
+    font-style: italic;
+    color: #888;
+}
+
+.buttons button {
+    margin: 0.5rem;
+    padding: 0.6rem 1.2rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    background: #6c63ff;
+    color: white;
+    transition: background 0.3s;
+}
+
+.buttons button:hover {
+    background: #5145cd;
+}
