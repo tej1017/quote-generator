@@ -26,12 +26,6 @@ Built with **HTML**, **CSS**, and **JavaScript** — perfect as a beginner open-
 
 ---
 
-## 📸 Screenshot
-"C:\Users\sarve\Downloads\Screenshot 2025-11-12 100223.png"
-*(You can replace this with your own screenshot later)*
-
----
-
 ## 🧩 How to Run Locally
 
 1. Clone this repository:
