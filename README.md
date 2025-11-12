@@ -27,8 +27,7 @@ Built with **HTML**, **CSS**, and **JavaScript** — perfect as a beginner open-
 ---
 
 ## 📸 Screenshot
-
-![App Screenshot](https://user-images.githubusercontent.com/0000000/placeholder.png)
+"C:\Users\sarve\Downloads\Screenshot 2025-11-12 100223.png"
 *(You can replace this with your own screenshot later)*
 
 ---
@@ -38,3 +37,11 @@ Built with **HTML**, **CSS**, and **JavaScript** — perfect as a beginner open-
 1. Clone this repository:
    ```bash
    git clone https://github.com/tej1017/quote-generator.git
+   
+# Move into the folder
+cd quote-generator
+
+# Open the app
+start index.html   # (on Windows)
+# or
+open index.html    # (on macOS)
